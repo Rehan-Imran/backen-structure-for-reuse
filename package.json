@@ -1,0 +1,24 @@
+{
+  "name": "parenthood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:client": "cd client && react-scripts start",
+    "start:server": "cd server && npm run start",
+    "start": "node server/index.js",
+    "build:client": "cd client && npm install && npm run build",
+    "build": "npm run build:client",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "^18.16.0",
+    "npm": "^9.5.1"
+  }
+}

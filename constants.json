@@ -1,0 +1,13 @@
+{
+  "CONSTANTS": {
+    "ALREADY_EXIST": "User already exists.",
+    "REGISTERATION_SUCCESSFUL": "User successfully registered",
+    "BAD_REQUEST": "Bad Request."
+  },
+
+  "STATUS_CODES": {
+    "FORBIDDEN": 403,
+    "SUCCESS": 200,
+    "BAD_REQUEST": 400
+  }
+}

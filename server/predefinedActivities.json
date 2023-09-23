@@ -1,0 +1,22 @@
+[
+  {
+    "type": "height",
+    "category": "length",
+    "progressType": "growth"
+  },
+  {
+    "type": "weight",
+    "category": "weight",
+    "progressType": "growth"
+  },
+  {
+    "type": "sleep",
+    "category": "time",
+    "progressType": "activity"
+  },
+  {
+    "type": "waist",
+    "category": "length",
+    "progressType": "growth"
+  }
+]

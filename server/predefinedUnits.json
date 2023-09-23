@@ -1,0 +1,42 @@
+[
+  {
+    "unit": "m",
+    "category": "length"
+  },
+  {
+    "unit": "cm",
+    "category": "length"
+  },
+  {
+    "unit": "ft",
+    "category": "length"
+  },
+  {
+    "unit": "kg",
+    "category": "weight"
+  },
+  {
+    "unit": "g",
+    "category": "weight"
+  },
+  {
+    "unit": "lb",
+    "category": "weight"
+  },
+  {
+    "unit": "C",
+    "category": "temperature"
+  },
+  {
+    "unit": "K",
+    "category": "temperature"
+  },
+  {
+    "unit": "min",
+    "category": "time"
+  },
+  {
+    "unit": "h",
+    "category": "time"
+  }
+]
